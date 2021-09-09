@@ -3,7 +3,7 @@ const Sentry = require('@sentry/electron');
 
 Sentry.init({
 	dsn: 'DSN',
-});
+  });
 
 contextBridge.exposeInMainWorld(
 	'api', {

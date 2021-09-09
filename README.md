@@ -6,7 +6,6 @@ Associated with issue: https://github.com/getsentry/sentry-electron/issues/366
 Setup:
 - `npm install`
 - Replace the 'DSN' in `main.js`, `preload.js`, and `renderer.js` with a working DSN. 
-- Place a filled out `sentry.properties` file in the root
 - `npm start`
 
 Reproduce issue:

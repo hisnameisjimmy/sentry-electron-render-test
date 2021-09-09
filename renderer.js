@@ -6,8 +6,8 @@
 // process.
 
 api.Sentry.init({
-	dsn: 'DSN',
-});
+    dsn: 'DSN',
+  });
 
 // rendererUndefined();
 
