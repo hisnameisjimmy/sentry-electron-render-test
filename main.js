@@ -6,7 +6,7 @@ Sentry.init({
 	dsn: 'DSN',
   });
 
-mainUndefined();
+// mainUndefined();
 
 const createWindow = () => {
     const win = new BrowserWindow({
